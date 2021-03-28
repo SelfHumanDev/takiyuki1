@@ -1,10 +1,8 @@
+![tenor (2)](https://user-images.githubusercontent.com/80430312/112761289-cf88bf00-9024-11eb-888c-8401cec18137.gif)
+
 - 👋 Hi, I’m @takiyuki1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram wa
 
-<!---
-takiyuki1/takiyuki1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
